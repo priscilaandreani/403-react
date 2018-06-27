@@ -1,0 +1,25 @@
+>> Orientação ao objeto 
+Não existe passo a passo de execução de programa
+Tudo é objeto
+
+//Programação funcional <<
+
+>> Classe e Instância 
+    - Classe: descrição do objeto (como deveria ser)
+    - Um objeto de verdade que segue o padrão da classe; (preenche as características)
+ 
+ Todos os objetos de React pertencem a uma superclasse;
+    - Características genéricas de uma classe;
+        
+        class App extends Component {
+            render() {   //método: transforma jsx em html e devolve pras instâncias
+                return ()       
+        }};
+
+toda vez que for usar class para o HTML  utilizar className, class ja é a classe do jsx
+imagem como variável 
+
+No REACT todas as classes são fechadas!<selfClose/>
+
+O  método render tem que retonar uma única TAG; ENCAPSULADOR
+
